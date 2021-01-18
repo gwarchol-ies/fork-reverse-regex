@@ -1,8 +1,8 @@
 {
-    "name": "icomefromthenet/reverse-regex",
-    "description": "Convert Regular Expressions into text, for testing",
+    "name": "enso-media/reverse-regex",
+    "description": "Convert Regular Expressions into text",
     "keywords": ["regex","testing","test data","generator"],
-    "homepage": "http://github.com/icomefromthenet/ReverseRegex",
+    "homepage": "http://github.com/enso-media/ReverseRegex",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
        "phpunit/phpunit": "^8"
     },
     "require": {
-        "php"                  : "^7.2",
+        "php"                  : "^7.2 | ^8.0",
         "doctrine/lexer"       : "1.2.1",
         "doctrine/collections" : "1.6.5",
         "patchwork/utf8"       : ">=1.3"
