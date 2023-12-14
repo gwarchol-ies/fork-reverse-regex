@@ -1,5 +1,5 @@
 {
-    "name": "enso-media/reverse-regex",
+    "name": "gxw/fork-reverse-regex",
     "description": "Convert Regular Expressions into text",
     "keywords": ["regex","testing","test data","generator"],
     "homepage": "http://github.com/enso-media/ReverseRegex",
@@ -27,4 +27,8 @@
             "PHPStats"    : "src/"
         }
     }
+	{
+    "minimum-stability": "dev",
+    "prefer-stable": true, 
+
 }
